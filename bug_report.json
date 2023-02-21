@@ -1,1 +1,12 @@
-
+{
+  "ID": "1",
+  "Title": "Does not add item to cart",
+  "Steps": {
+            "step_1": "open main menu",
+            "step_2": "choose category shoes",
+            "step_3": "click on the image of the basket of the selected pair of shoes"            
+           }
+  "actual_result": "there is no item in the cart",
+  "expected_result": "the selected product is displayed in the basket",
+  "severity": "blocker"
+}
