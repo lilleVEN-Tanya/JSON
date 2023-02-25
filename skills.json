@@ -1,32 +1,36 @@
 
 {
-	"course_consists": 
-"1. basic theory, SDLC, STLC.
-2. what is client server architecture.
-3. HTTP.
-4. answers HTTP server.
-5. HTTP query and answers structures.
-6. JSON, XML.
-7. API from Postman (JS, auto API).
-8. Снятие и чтение логов c внешнего сервера.
-9. Снифинг http web трафика через Charles и Fiddler.
-10. Dev Tools веб браузеров (Google Chrome, FireFox).
-11. VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)
-12. Мобильное тестирование.
-13. Особенность iOS, Android, гайдлайны.
-14. Сборка iOS приложений на XCode. (У кого нет Mac компьютера, просто посмотрят)
-15. Сборка Android приложений на Android Studio.
-16. ADB (управление андройд девайсами).
-17. Настройка прокси и vpn на iOS и Android.
-18. Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android.
-19. Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)
-20. Основы bash скриптинг, автоматизация рутинных задач на сервере.
-21. Доступ к удалённым серверам.
-22. Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).
-23. База данных Postgres (установка, настройка и использование).
-24. Нереляционная база данных Redis (установка, настройка и использование).
-25. Нагрузочное тестирование в Jmeter.
-26. Методология разработки Scrum.
-27. Python. (Изучение основ. Создание клиент серверного приложения)
+	"title": "software tester course",
+	"course_consists": [
+		{"introduction": "about QA"},
+		{"point1": "1. Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC."},
+		{"point2": "2. What is a client-server architecture."},
+		{"point3": "3. HTTP Methods of requests to the server."},
+		{"point4": "4. HTTP server response codes."},
+		{"point5": "5. Structures of HTTP requests and responses."},
+		{"point6": "6. What is JSON, XML. Their structure."},
+		{"point7": "7. API testing via Postman (JS, API autotests)."},
+		{"point8": "8. Removing and reading logs from an external server."},
+		{"point9": "9. Sniffing http web traffic via Charles and Fiddler."},
+		{"point10": "10. Dev Tools of web browsers (Google Chrome, FireFox)."},
+		{"point11": "11. VPN. How it works, why you need it, how to use it, tool options."},
+		{"point12": "12. Mobile testing."},
+		{"point13": "13. Feature iOS, Android, guidelines."},
+		{"point14": "14. Building iOS applications on XCode."},
+		{"point15": "15. Building Android applications on Android Studio."},
+		{"point16": "16. ADB - android device management."},
+		{"point17": "17. Setting up proxy and vpn on iOS and Android."},
+		{"point18": "18. Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android."},
+		{"point19": "19. Command line  - terminal, Linux - copying, creating, viewing, moving files on servers without a graphical interface."},
+		{"point20": "20. Basics of bash scripting, automation of routine tasks on the server."},
+		{"point21": "21. Access to remote servers."},
+		{"point22": "22. SQL basics (create, delete, delete, insert, select from, where to, join)."},
+		{"point23": "23. Postgres database (installation, configuration and use)."},
+		{"point24": "24. Non-relational database Redis (installation, configuration and use)."},
+		{"point25": "25. Load testing in Jmeter."},
+		{"point26": "26. Scrum development methodology."},
+		{"point27": "7.Python. Learning the basics. Creating a client-server application."}
+		]
+	
 }
 
